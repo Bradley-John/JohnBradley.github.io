@@ -1,3 +1,7 @@
+This is an old project that a Big Data class wanted us to have, feel free to ignore it in lieu of anything else I might add to github.
+More or less just an edited template.
+
+
 Read Only by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
